@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Shekhar Gangwar 👋
 
-<!--
-**thatshekhar/thatshekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student learning programming
+and developing my coding skills.
+
+## About Me
+
+- 🌱 Currently learning Java
+- 💻 Exploring HTML, CSS and JavaScript
+- 📚 Practicing programming and problem-solving
+- 🚀 Interested in software development
+- 🎯 My goal is to become a skilled developer
+
+## Skills I'm Learning
+
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git and GitHub
+
+## My Goals
+
+- Improve my programming skills
+- Learn new technologies
+- Build my first project
+- Contribute to open-source projects
+
+## Connect With Me
+
+- GitHub: [@thatshekhar](https://github.com/thatshekhar)
+
+Thanks for visiting my profile! ⭐
