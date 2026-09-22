@@ -12,6 +12,7 @@ I'm a student learning programming and developing my coding skills.
 <a href="#projects">📁 Projects</a> •
 <a href="#github-stats">📊 Stats</a> •
 <a href="#top-languages">🌐 Languages</a> •
+<a href="#github-trophies">🏆 Trophies</a> •
 <a href="#github-streak">🔥 Streak</a> •
 <a href="#skills">⚙️ Skills</a> •
 <a href="#connect-with-me">🔗 Connect</a>
@@ -56,7 +57,7 @@ A Java-based Student Management System built to practice Java fundamentals and O
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thatshekar&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=thatshekhar&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
 
 </p>
 
@@ -68,7 +69,7 @@ A Java-based Student Management System built to practice Java fundamentals and O
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatshekar&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatshekhar&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
 
 </p>
 
@@ -80,7 +81,7 @@ A Java-based Student Management System built to practice Java fundamentals and O
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thatshekar&theme=darkhub&no-frame=true&margin-w=5" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=thatshekhar&theme=darkhub&no-frame=true&margin-w=5" alt="GitHub Trophies">
 
 </p>
 
@@ -92,8 +93,8 @@ A Java-based Student Management System built to practice Java fundamentals and O
 
 <p align="center">
 
-<a href="https://github.com/thatshekar">
-<img src="https://streak-stats.demolab.com/?user=thatshekar&theme=dark&hide_border=true" alt="GitHub Streak">
+<a href="https://github.com/thatshekhar">
+<img src="https://streak-stats.demolab.com/?user=thatshekhar&theme=dark&hide_border=true" alt="GitHub Streak">
 </a>
 
 </p>
@@ -147,10 +148,10 @@ A Java-based Student Management System built to practice Java fundamentals and O
 Shekhar Gangwar
 
 📸 **Instagram:**  
-[@that_shekhar](https://www.instagram.com/that_shekhar/)
+[@that__shekhar](https://www.instagram.com/that__shekhar/)
 
 🐙 **GitHub:**  
-[@thatshekar](https://github.com/thatshekar)
+[@thatshekhar](https://github.com/thatshekhar)
 
 ---
 
@@ -158,7 +159,7 @@ Shekhar Gangwar
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=thatshekar&label=Profile%20Views&style=flat" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=thatshekhar&label=Profile%20Views&style=flat" alt="Profile Views">
 
 </p>
 
