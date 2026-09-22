@@ -8,21 +8,19 @@ I'm a student learning programming and developing my coding skills.
 
 <p align="center">
 
-📊 <a href="#github-stats">Stats</a>
-•
-🌐 <a href="#languages">Languages</a>
-•
-🏆 <a href="#github-trophies">Trophies</a>
-•
-🔥 <a href="#github-streaks">Streaks</a>
-•
-⚙️ <a href="#skills">Skills</a>
-•
-🔗 <a href="#connect-with-me">Connect</a>
+<a href="#about-me">👨‍💻 About Me</a> •
+<a href="#projects">📁 Projects</a> •
+<a href="#github-stats">📊 Stats</a> •
+<a href="#top-languages">🌐 Languages</a> •
+<a href="#github-streak">🔥 Streak</a> •
+<a href="#skills">⚙️ Skills</a> •
+<a href="#connect-with-me">🔗 Connect</a>
 
 </p>
 
 ---
+
+<a id="about-me"></a>
 
 ## 🧑‍💻 About Me
 
@@ -31,10 +29,12 @@ I'm a student learning programming and developing my coding skills.
 - 🌱 Currently learning **Java**
 - 💻 Exploring **HTML, CSS and JavaScript**
 - 📚 Practicing programming and problem-solving
-- 🚀 Interested in software development
+- 🚀 Interested in Software Development
 - 🎯 My goal is to become a skilled developer
 
 ---
+
+<a id="projects"></a>
 
 ## 📁 Projects
 
@@ -55,17 +55,21 @@ A Java-based Student Management System built to practice Java fundamentals and O
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thatshekar&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api?username=thatshekar&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
+
 </p>
 
 ---
 
-<a id="languages"></a>
+<a id="top-languages"></a>
 
-## 🌐 Languages
+## 🌐 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatshekar&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thatshekar&layout=compact&theme=dark&hide_border=true" alt="Top Languages">
+
 </p>
 
 ---
@@ -75,17 +79,23 @@ A Java-based Student Management System built to practice Java fundamentals and O
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thatshekar&theme=darkhub&no-frame=true&margin-w=5" alt="GitHub Trophies">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thatshekar&theme=darkhub&no-frame=true&margin-w=5" alt="GitHub Trophies">
+
 </p>
 
 ---
 
-<a id="github-streaks"></a>
+<a id="github-streak"></a>
 
-## 🔥 GitHub Streaks
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=thatshekar&theme=dark&hide_border=true" alt="GitHub Streak">
+
+<a href="https://github.com/thatshekar">
+<img src="https://streak-stats.demolab.com/?user=thatshekar&theme=dark&hide_border=true" alt="GitHub Streak">
+</a>
+
 </p>
 
 ---
@@ -134,7 +144,7 @@ A Java-based Student Management System built to practice Java fundamentals and O
 [9761769690](https://wa.me/919761769690)
 
 💼 **LinkedIn:**  
-[Shekhar Gangwar](https://www.linkedin.com/)
+Shekhar Gangwar
 
 📸 **Instagram:**  
 [@that_shekhar](https://www.instagram.com/that_shekhar/)
@@ -147,7 +157,9 @@ A Java-based Student Management System built to practice Java fundamentals and O
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thatshekar&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+
+<img src="https://komarev.com/ghpvc/?username=thatshekar&label=Profile%20Views&style=flat" alt="Profile Views">
+
 </p>
 
 ---
@@ -156,6 +168,8 @@ A Java-based Student Management System built to practice Java fundamentals and O
 
 ⭐ Thanks for visiting my profile!
 
-### Keep Learning • Keep Coding • Keep Growing 🚀
+<br>
+
+<b>Keep Learning • Keep Coding • Keep Growing 🚀</b>
 
 </p>
