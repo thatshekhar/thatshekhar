@@ -1,4 +1,4 @@
-# Hi 👋, I'm Shekhar Gangwar
+# Hi 👋, I'm Shekhar Gangwar.
 
 ### 💻 Aspiring Software Developer
 
